@@ -1,0 +1,31 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+/config/wi
+/config copy
+.env
+/.idea
+/packages
+/Themes
+
+/resources/views/admin/contact
+
+/resources/views/vendor
+/resources/views
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+resources/views/auth/passwords/email.blade.php
+
+resources/views/auth/login.blade.php
+composer.lock
