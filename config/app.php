@@ -164,7 +164,7 @@ return [
 		
 		/* WI packages */
 		//1
-	    WI\Contact\ContactServiceProvider::class,
+	    #WI\Contact\ContactServiceProvider::class,
 		//2
 	    WI\User\UserServiceProvider::class,
 	    //3

@@ -4,3 +4,18 @@
 [submodule "packages/WI/Core"]
 	path = packages/WI/Core
 	url = https://github.com/wi-development/core.git
+[submodule "packages/WI/Locale"]
+	path = packages/WI/Locale
+	url = https://github.com/wi-development/locale.git
+[submodule "packages/WI/Chart"]
+	path = packages/WI/Chart
+	url = https://github.com/wi-development/chart.git
+[submodule "packages/WI/Media"]
+	path = packages/WI/Media
+	url = https://github.com/wi-development/media.git
+[submodule "packages/WI/Sitemap"]
+	path = packages/WI/Sitemap
+	url = https://github.com/wi-development/sitemap.git
+[submodule "packages/WI/User"]
+	path = packages/WI/User
+	url = https://github.com/wi-development/user.git
