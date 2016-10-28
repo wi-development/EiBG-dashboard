@@ -1,0 +1,6 @@
+[submodule "packages/WI/Dashboard"]
+	path = packages/WI/Dashboard
+	url = https://github.com/wi-development/dashboard.git
+[submodule "packages/WI/Core"]
+	path = packages/WI/Core
+	url = https://github.com/wi-development/core.git

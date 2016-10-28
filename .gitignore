@@ -7,7 +7,6 @@ Homestead.json
 /config copy
 .env
 /.idea
-/packages
 /Themes
 
 /resources/views/admin/contact
